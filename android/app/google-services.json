@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "590914788295",
+    "firebase_url": "https://covid-test-87440.firebaseio.com",
+    "project_id": "covid-test-87440",
+    "storage_bucket": "covid-test-87440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590914788295:android:620d02272ccdac7e7517e2",
+        "android_client_info": {
+          "package_name": "com.ilham_reb.covidtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590914788295-67mmrhiuk5t37r13ht6qisov7a2ap0tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBczLTsyFdrPMJKAe8iZ341SHX3V0udlYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590914788295-67mmrhiuk5t37r13ht6qisov7a2ap0tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
